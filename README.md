@@ -80,3 +80,9 @@ This is a student General Assembly project built using React js using
 
 ### Daily Summary
 ![](/public/images/Daily-suumary.png)
+
+### Concept Wireframe
+
+![](/public/images/wireframe.jpg)
+
+- The concept is to be able to enter sales for in person purchases and recieve notiforcations for external, on-line sales that are added to the queue
