@@ -1,0 +1,41 @@
+
+
+.item-screen {
+    padding: .25%;
+    width: 55%;
+    gap: 1%;    
+    background-color: var(--cream);
+    display: flex;
+    flex-flow: wrap; 
+    box-sizing:border-box;
+    overflow-y: scroll;
+}
+
+.product-btn{
+    
+    display: flex;
+    align-self: flex-start;
+    height: 200px;
+    width: 100px;
+    justify-content: center;
+    align-items: center;
+    
+    width:calc(100%/5.22);
+    height: calc(95%/3.0);
+    box-sizing:border-box;
+    
+    border-radius: 10px;
+  
+}
+
+.product-first {
+    background-color: rgb(196, 154, 162);
+}
+
+.product-second {
+    background-color: rgb(158, 125, 131);
+}
+
+.product-third {
+    background-color: rgb(109, 89, 92);
+}

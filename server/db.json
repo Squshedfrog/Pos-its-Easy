@@ -1,0 +1,168 @@
+{
+  "products": [
+    {
+      "id": 101,
+      "menu": "Coffee",
+      "name": "Latte",
+      "price": "4.5"
+    },
+    {
+      "id": 102,
+      "menu": "Coffee",
+      "name": "Flat White",
+      "price": "4.5"
+    },
+    {
+      "id": 103,
+      "menu": "Coffee",
+      "name": "Capaccino",
+      "price": "4.5"
+    },
+    {
+      "id": 104,
+      "menu": "Coffee",
+      "name": "Macchiato",
+      "price": "4.5"
+    },
+    {
+      "id": 105,
+      "menu": "Coffee",
+      "name": "Piccolo",
+      "price": "4.5"
+    },
+    {
+      "id": 106,
+      "menu": "Coffee",
+      "name": "Tea",
+      "price": "4.5"
+    },
+    {
+      "id": 107,
+      "menu": "Coffee",
+      "name": "Batch Brew",
+      "price": "4.5"
+    },
+    {
+      "id": 108,
+      "menu": "Coffee",
+      "name": "Long Black",
+      "price": "4.5"
+    },
+    {
+      "id": 109,
+      "menu": "Coffee",
+      "name": "Espresso",
+      "price": "4.5"
+    },
+    {
+      "id": 110,
+      "menu": "Coffee",
+      "name": "Mocha",
+      "price": "4.5"
+    },
+    {
+      "id": 111,
+      "menu": "Coffee",
+      "name": "Babycino",
+      "price": "4.5"
+    },
+    {
+      "id": 301,
+      "menu": "Lunch",
+      "name": "Eggs on Toast",
+      "price": "13.5"
+    },
+    {
+      "id": 201,
+      "menu": "Breakfast",
+      "name": "beans",
+      "price": "4.5"
+    },
+    {
+      "id": 112,
+      "menu": "Coffee",
+      "name": "dfgd",
+      "price": "1"
+    },
+    {
+      "id": 113,
+      "menu": "Coffee",
+      "name": "dgdfg",
+      "price": "1"
+    },
+    {
+      "id": 202,
+      "menu": "Breakfast",
+      "name": "Eggs on Toast",
+      "price": "13.5"
+    },
+    {
+      "id": 203,
+      "menu": "Breakfast",
+      "name": "Toast",
+      "price": "8"
+    },
+    {
+      "id": 204,
+      "menu": "Breakfast",
+      "name": "BnE Roll",
+      "price": "13"
+    },
+    {
+      "id": 205,
+      "menu": "Breakfast",
+      "name": "Eggs Benny",
+      "price": "15"
+    },
+    {
+      "id": 206,
+      "menu": "Breakfast",
+      "name": "Mushroom Stack",
+      "price": "18"
+    },
+    {
+      "id": 207,
+      "menu": "Breakfast",
+      "name": "Toast",
+      "price": "8"
+    },
+    {
+      "id": 208,
+      "menu": "Breakfast",
+      "name": "BnE Roll",
+      "price": "13"
+    },
+    {
+      "id": 209,
+      "menu": "Breakfast",
+      "name": "Eggs Benny",
+      "price": "15"
+    },
+    {
+      "id": 210,
+      "menu": "Breakfast",
+      "name": "Mushroom Stack",
+      "price": "18"
+    },
+    {
+      "id": 211,
+      "menu": "Breakfast",
+      "name": "Fruit Toast",
+      "price": "13"
+    }
+  ],
+  "menus": [
+    {
+      "id": 100,
+      "menu": "Coffee"
+    },
+    {
+      "id": 200,
+      "menu": "Breakfast"
+    },
+    {
+      "id": 300,
+      "menu": "Lunch"
+    }
+  ]
+}

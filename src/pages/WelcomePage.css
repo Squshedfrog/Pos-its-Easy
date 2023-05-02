@@ -1,0 +1,74 @@
+.welcome-page * {
+    /* border: 1px solid red; */
+}
+
+
+.welcome-page{
+    background: rgb(2,0,36);
+    background: linear-gradient(90deg, rgba(2,0,36,1) 0%, rgba(90,165,175,1) 35%);
+    height: 95vh;
+    padding: 40px;
+    color: var(--greylight);
+    
+    
+}
+
+.flex-container{
+    display: flex;
+
+}
+.welcome-left{
+    font-size: 2em;
+    padding: 80px 60px;
+    
+}
+
+
+.logo{
+
+    border-radius: 10px;
+}
+
+
+
+    footer {
+        position: relative;
+        height: 300px;
+        width: 100%;
+        
+    }
+
+    p.copyright {
+        position: absolute;
+        width: 100%;
+        color: #fff;
+        line-height: 40px;
+        font-size: 1em;
+        text-align: center;
+        bottom:20px;
+    }
+
+    
+
+
+.login-btn {
+    margin-top: 50px;
+    align-items: center;
+    background: var(--teal);
+    box-shadow: 0 4px 6px -1px rgba(0, 0, 0, 0.1), 0 2px 4px -1px rgba(0, 0, 0, 0.06);
+    box-sizing: border-box;
+    display: inline-flex;
+    font-size: 1rem;
+    font-weight: 700;
+    height: 50px;
+    justify-content: center;
+    padding: 24px;
+    width: 150px;
+    border-radius: 20px;
+    cursor: pointer;
+ 
+}
+
+.login-btn:hover{
+    transform: scale(1.10);
+}

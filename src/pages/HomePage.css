@@ -1,0 +1,30 @@
+* {
+    /* border: 1px solid red; */
+    border: none;
+}
+
+:root {
+    --teal: #117583;
+    --tealmed: #5aa5af;
+    --teallight: #9cd0ce;
+    --teallightest: #b1efed;
+    --greydark: rgb(74, 74, 74);
+    --grey: #7f7f7f;
+    --greylight: #d5d3d3;
+    --pinkmed: #df9696;
+    --pinkdark: #b16565;
+    --offwhite: rgb(246, 234, 225);
+    --cream: rgb(238, 215, 203);
+
+  }
+  
+.home-page {
+    height: 90vh;
+    display: flex;
+}
+
+
+
+
+
+/* -------------------------- test css notiforcations -------------- */

@@ -1,0 +1,79 @@
+
+.tally-section {
+    width: 30%;
+    background-color: var(--offwhite);
+    display: flex;
+    flex-direction: column;
+    justify-content: space-between;
+    padding: 5px 10px;   
+    
+}
+button{
+    border: none;
+}
+
+.tally-table{
+    display: flex;
+    flex-direction: column;
+    text-align: center;
+}
+
+.tally-header{
+    background-color: var(--greylight);
+    border-radius: 7px;
+    height: 40px;
+    
+}
+
+
+.tally-header-left{
+    padding-left: 10px;
+    width: 40%;
+    text-align: initial;
+}
+
+
+.tally-footer{
+    padding: 5px;
+    text-align: end;
+    display: flex;
+    justify-content: space-between;
+    background-color: var(--greylight);
+    border-radius: 7px;
+    
+}
+
+.tally-footer-right{
+    background-color: var(--pinkmed);
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    padding: 0 10px;
+    border-radius: 7px;
+}
+
+
+.send-order-btn{
+    margin: 0 5px;
+    padding: 0 20px;
+    height: 50px;
+    border-radius: 7px;
+    background-color: var(--tealmed);
+}
+
+.send-order-btn:hover{
+    transform: scale(1.10);
+}
+
+
+.cart-btn{
+    margin: .5%;
+    padding: 0 5px;
+    border-radius: 5px;
+    background-color: inherit;
+    color: var(--greydark)
+}
+
+.cart-btn:hover {
+    transform: scale(1.20);
+}
