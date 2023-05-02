@@ -3,8 +3,6 @@
 ## Developer
 - ### Simon 
 
-
-- ### Simon
 Pos its Easy is designed to be a local based point of sale system with intergrated online notifications to manage on-line ordering, preventing the need for multiple devices.
 
 
@@ -85,4 +83,4 @@ This is a student General Assembly project built using React js using
 
 ![](/public/images/wireframe.jpg)
 
-- The concept is to be able to enter sales for in person purchases and recieve notiforcations for external, on-line sales that are added to the queue
+- The concept is to be able to enter sales for in person purchases and recieve notiforcations for external, on-line sales that are added to the queue or rejected
